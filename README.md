@@ -26,4 +26,4 @@ I use them when I get stuck on trivial stuff with a lot of elements to it, like 
 
 Sometimes I use AI to prototype things. It's actually very nice for prototyping and visualizing stuff.
 
-As of today (May 23 2026) I have never shipped AI code in production.
+As of today (May 23 2026) I have never shipped mostly or entirely AI-built code/systems in production. Any AI code from prototyping usually gets reviewed, sanitized, and replaced before then, if I used it to begin with.
