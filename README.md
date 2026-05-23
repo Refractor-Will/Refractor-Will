@@ -22,8 +22,10 @@ More details in the future.
 A lot of these must seem unusual coming from an Unreal Engine user. Let me be clear: I *tolerate* it when working with Unreal Engine and its ecosystem. I'm building Hydra for a reason 🤣
 
 ### AI Tools...
-I use them when I get stuck on trivial stuff with a lot of elements to it, like setting up CMake and making sure I don't miss anything that's easy to miss for someone new.
+I use AI most frequently for:
 
-Sometimes I use AI to prototype things. It's actually very nice for prototyping and visualizing stuff.
+- Utility tools (scripts)
+- Build scripts
+- Build systems (e.g., CMake setup)
 
-As of today (May 23 2026) I have never shipped mostly or entirely AI-built code/systems in production. Any AI code from prototyping usually gets reviewed, sanitized, and replaced before then, if I used it to begin with.
+I've used it for prototyping occasionally but I've never shipped any AI code in production (i.e., end-user runtime). I usually end up overwriting any AI prototype code during production so it hasn't been shipped to end users of my software.
